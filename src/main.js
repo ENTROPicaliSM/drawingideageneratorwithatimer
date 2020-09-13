@@ -1,4 +1,3 @@
-import topics from "./topics.js"
 import nouns from "./nouns.js"
 /*import structures from "./structures.js"
 import {NOUN, ADJ, VERB} from "./structures.js"*/
