@@ -843,7 +843,7 @@ export default [
 "subject","submarine","submitter","subprime","subroutine","subscription","subsection",
 "subset","subsidence","subsidiary","subsidy","substance","substitution","subtitle",
 "suburb","subway","success","succotash","suck","sucker","suede",
-"suet","suffocation","sugar","suggestion","suicide","suit","suitcase",
+"suet","suffocation","sugar","suggestion","suit","suitcase",
 "suite","sulfur","sultan","sum","summary","summer","summit",
 "sun","sunbeam","sunbonnet","sundae","sunday","sundial","sunflower",
 "sunglasses","sunlamp","sunlight","sunrise","sunroom","sunset","sunshine",
